@@ -1,4 +1,15 @@
-# sql-uygulamalari
-Bu repo, temel ve orta seviye SQL sorgularını içeren örnek uygulamalardan oluşmaktadır.  
+This repository contains advanced SQL Server examples including:
 
-Bu uygulamalar öğrenme ve portföy geliştirme amacıyla hazırlanmıştır.  
+🔹 AFTER & INSTEAD OF Triggers
+
+🔹 Logging Mechanisms
+
+🔹 Complex Subqueries
+
+🔹 EXISTS / IN / NOT IN comparisons
+
+🔹 Aggregation & HAVING
+
+🔹 JOIN types (INNER, LEFT, RIGHT, FULL, CROSS)
+
+🔹 Realistic relational database scenarios
